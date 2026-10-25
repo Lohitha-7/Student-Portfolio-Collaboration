@@ -2,25 +2,45 @@
 
 Add clear, honest descriptions of academic and personal projects.
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+# My Projects
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## Project 1: Lomi – AI Career Companion
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+### Problem
+Students often face difficulties preparing for placements, improving their resumes, identifying skill gaps, and practicing interview questions.
+
+### Solution
+Lomi is an AI-powered career companion designed to help students prepare for placements through career guidance, resume analysis, skill development, interview preparation, and learning roadmaps.
+
+### Technologies Used
+HTML, CSS, JavaScript, Python, FastAPI, and AI tools.
+
+### My Contribution
+Worked on the project idea, user interface design, career guidance features, and development of the application.
+
+### Possible Improvements
+- Add personalized mock interviews.
+- Provide job recommendations based on skills and resumes.
+- Include progress tracking and skill improvement suggestions.
+
+---
+
+## Project 2: HireSim – AI Mock Interview Assistant
+
+### Problem
+Students and freshers often struggle to prepare for technical interviews and answer interview questions confidently.
+
+### Solution
+HireSim is an AI-powered interview preparation platform that helps students practice mock interviews based on their resumes, skills, and job descriptions.
+
+### Technologies Used
+Python, HTML, CSS, JavaScript, FastAPI, and AI/NLP tools.
+
+### My Contribution
+Worked on the project concept, interview preparation workflow, and designing features to help students practice interview questions.
+
+### Possible Improvements
+- Add voice-based mock interviews.
+- Provide feedback on interview answers.
+- Analyze interview performance.
+- Generate personalized questions based on specific job roles.
