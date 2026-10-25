@@ -1,11 +1,9 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
+- **Name:** Ketha Lohitha
+- **Email:** lohithasuper7@gmail.com
+- **GitHub:** [Lohitha-7](https://github.com/Lohitha-7)
+- **LinkedIn:** https://www.linkedin.com/in/lohitha-ketha-a67a60249
+- **Location:** Andhra Pradesh, India
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
-
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+**Note:** Use only professional contact information you are comfortable sharing publicly.
